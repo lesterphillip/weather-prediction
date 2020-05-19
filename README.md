@@ -9,7 +9,7 @@ Make sure that the following libraries are installed in your working environment
 To use this repository, enter in the terminal
 
 ```bash
-https://github.com/lesterphillip/weather-prediction.git
+git clone https://github.com/lesterphillip/weather-prediction.git
 ```
 And run the script
 
